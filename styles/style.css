@@ -13,8 +13,6 @@ span {
 }
 p {
   color: #fff;
-  /* font-size: 18px; */
-  /* letter-spacing: 0.04rem; */
 }
 .heroes-info {
   background: #fff;
@@ -38,7 +36,6 @@ p {
 }
 
 .rating-area {
-  border: 1px solid red;
   overflow: hidden;
   max-width: 225px;
   margin: 0 auto;
